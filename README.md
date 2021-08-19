@@ -1,1 +1,1 @@
-# Digital-60Hz-Notch-Filter
+# 60Hz-Digital-Notch-Filter
