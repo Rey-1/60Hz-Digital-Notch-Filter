@@ -5,6 +5,6 @@ filtered with the help of a notch filter transfer function included in the code,
 
 [60Hz Digital Notch Filter.pdf](https://github.com/Rey-1/Digital-60Hz-Notch-Filter/files/7017894/60Hz.Digital.Notch.Filter.pdf)
 
-#Demo: https://www.youtube.com/watch?v=FxZmpw5tHug&ab_channel=ReyRodriguez
+# Demo: https://www.youtube.com/watch?v=FxZmpw5tHug&ab_channel=ReyRodriguez
 
 
