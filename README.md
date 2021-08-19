@@ -1,3 +1,4 @@
+[EE138 Lab 4 (2).pdf](https://github.com/Rey-1/Digital-60Hz-Notch-Filter/files/7017868/EE138.Lab.4.2.pdf)
 # 60Hz-Digital-Notch-Filter
 
 The program removes the 60Hz range of an incoming signal using a digital notch filter. Filtering the signal begins when the sinusoid enters the ADC module in the MSP432 to be 
